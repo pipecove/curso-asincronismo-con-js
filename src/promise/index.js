@@ -27,5 +27,4 @@ countCows.then((result) => {    //then lo usamos para anidar mas solicitudes enc
     console.log(error);
 }).finally(() => console.log("Finally"));
 
-sjfha
 
